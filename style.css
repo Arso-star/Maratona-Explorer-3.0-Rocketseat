@@ -1,0 +1,24 @@
+*{
+    margin: 0 auto;
+    background: #FFEDD5
+}
+
+body{
+    text-align: center;
+}
+
+header{
+    padding: 32px 0px;
+    align-items: center;
+}
+
+h1{
+    font-family: 'Roboto Serif', serif;
+    font-weight: 700;
+    color: #2D2C2A;
+    font-size: 32px;
+}
+
+span{
+    color: #E78100
+}
