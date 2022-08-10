@@ -6,7 +6,7 @@
 }
 
 body{
-    background: #FFEDD5;
+    background: #FFE9DA;
 }
 
 ul{
@@ -18,6 +18,11 @@ ul{
 header{
     padding: 32px 0px;
     text-align: center;
+}
+
+header img{
+    width: 120px;
+    height: 120px;
 }
 
 header, section{
