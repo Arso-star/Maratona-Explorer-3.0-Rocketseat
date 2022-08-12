@@ -71,7 +71,7 @@
 
 <h4> Netlify </h4>
 <ul>
-  <a href="https://www.netlify.com/" target="_blank"> Netlify </a>
+  <a href="https://www.netlify.com/" target="_blank"> Netlify - Plataforma de hospedagem de projetos e criação de links </a>
 </ul>
 
 
