@@ -9,7 +9,7 @@
 
 <p> Tecnologias utilizadas no projeto: </p>
 <ul>
-  <li> HTML</li>
+  <li> HTML </li>
   <li> CSS </li>
 </ul>
 
@@ -71,7 +71,7 @@
 
 <h4> Netlify </h4>
 <ul>
-  <a href="[www.netlify.com](https://www.netlify.com/)" target="_blank"> Netlify </a>
+  <a href="https://www.netlify.com/" target="_blank"> Netlify </a>
 </ul>
 
 
