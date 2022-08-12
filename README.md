@@ -71,14 +71,14 @@
 
 <h4> Netlify </h4>
 <ul>
-  <a href="www.netlify.com" target="_blank"> Netlify </a>
+  <a href="[www.netlify.com](https://www.netlify.com/)" target="_blank"> Netlify </a>
 </ul>
 
 
 <h4> Geradores de QR Code </h4>
 <ul>
-  <a href="https://br.qr-code-generator.com/" target="_blank"> QR Code Generator </a>
-  <a href="https://qr.io/" target="_blank"> Generate Customized QR Codes </a>
+  <a href="https://br.qr-code-generator.com/" target="_blank"> QR Code Generator </a><br>
+  <a href="https://qr.io/" target="_blank"> Generate Customized QR Codes </a><br>
   <a href="https://www.the-qrcode-generator.com/" target="_blank"> Gerador de Código QR (Não precisa criar conta) </a>
 </ul>
 
