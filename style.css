@@ -86,3 +86,19 @@ li .details{
     font-size: 14px;
     line-height: 21px;
 }
+
+/* FOOTER */
+footer{
+    text-align: center;
+    font-size: 16px;
+    line-height: 16px;
+    color: rgba(0,0,0,0.7);
+    margin-top: 40px;
+}
+
+.footer footer{
+    background-color: #FED7AA;
+    padding: 8px 16px;
+    margin-bottom: 24px;
+    border-radius: 10px;
+}
